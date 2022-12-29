@@ -1,0 +1,16 @@
+{
+  "name": "vanilla-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "playwrightTest.js",
+  "scripts": {
+    "test:watch": "playwright-watch test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.29.1",
+    "playwright-watch": "^1.3.23"
+  }
+}
